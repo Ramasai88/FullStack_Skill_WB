@@ -22,7 +22,7 @@ org.hibernate.dialect.MySQL8Dialect
 
 <property name="hibernate.hbm2ddl.auto">update</property>
 
-<property name="hibernate.show_sql">true</property>
+<property name="hibernate.show_sql">false</property>
 
 <mapping class="com.inventory.HibernateCRUD.Product"/>
 
