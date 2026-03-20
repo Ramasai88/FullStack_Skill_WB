@@ -1,10 +1,9 @@
-package com.inventory.spring_di_annotation;
+package com.klef.autowire;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages = "com.inventory.spring_di_annotation")
+@ComponentScan("com.klef.autowire")
 public class AppConfig {
-
 }

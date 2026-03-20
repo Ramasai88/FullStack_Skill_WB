@@ -14,7 +14,7 @@ http://www.springframework.org/schema/beans/spring-beans.xsd">
     <constructor-arg value="2"/>
 
     <property name="course" value="Artificial Intelligence"/>
-    <property name="year" value="3"/>
+    <property name="year" value="2"/>
 
 </bean>
 
